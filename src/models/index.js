@@ -1,0 +1,12 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Announcement = require('./announcement.model');
+module.exports.Academics = require('./academics.model');
+module.exports.Student = require('./student.model');
+module.exports.Parent = require('./parent.model');
+module.exports.Teacher = require('./teacher.model');
+module.exports.Admin = require('./admin.model');
+module.exports.Class = require('./class.model');
+module.exports.Quiz = require('./quiz.model');
+module.exports.QuizResult = require('./quizResult.model');
+module.exports.BigFiveResult = require('./bigfiveResult.model');
